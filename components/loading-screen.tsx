@@ -43,7 +43,7 @@ export default function LoadingScreen() {
             },
           }}
         >
-          <h2 className="text-2xl font-montserrat text-white">DevLoop</h2>
+          <h2 className="text-2xl font-inter text-white">DevLoop</h2>
           <div className="mt-6">
             <div className="relative h-1 w-48 bg-blue-deep/50 rounded-full overflow-hidden mx-auto">
               <m.div

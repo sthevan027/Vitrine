@@ -64,8 +64,8 @@ const config = {
         black: "#000000", // Black for text
       },
       fontFamily: {
-        sans: ["var(--font-montserrat)", "sans-serif"],
-        montserrat: ["var(--font-montserrat)", "sans-serif"],
+        sans: ["var(--font-inter)", "sans-serif"],
+        inter: ["var(--font-inter)", "sans-serif"],
       },
       borderRadius: {
         lg: "var(--radius)",
