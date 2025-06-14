@@ -86,7 +86,7 @@ export default function TeamMember({ name, role, image, skills, description }: T
           </DialogTrigger>
           <DialogContent className="card-bg border border-purple-electric/30 max-w-2xl">
             <DialogHeader>
-              <DialogTitle className="text-2xl font-montserrat">{name}</DialogTitle>
+              <DialogTitle className="text-2xl font-inter">{name}</DialogTitle>
               <DialogDescription className="text-purple-electric">{role}</DialogDescription>
             </DialogHeader>
             <div className="grid md:grid-cols-2 gap-6 py-4">
