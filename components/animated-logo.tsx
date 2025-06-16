@@ -95,7 +95,7 @@ export default function AnimatedLogo({
       </m.div>
 
       {showText && (
-        <m.span className="text-xl font-montserrat text-white" variants={textVariants}>
+        <m.span className="text-xl font-inter text-white" variants={textVariants}>
           DevLoop
         </m.span>
       )}
